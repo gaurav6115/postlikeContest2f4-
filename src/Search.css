@@ -1,0 +1,14 @@
+input {
+    background-color: inherit;
+    color: white;
+    width: calc(100% - 25px);
+    height: 55px;
+    padding: 0px 10px;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 20px;
+  }
+
+
+
+  

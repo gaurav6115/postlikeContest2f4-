@@ -1,0 +1,16 @@
+.postContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.loadPostBtn {
+  display: grid;
+  margin: auto;
+  align-items: center;
+  padding: 10px;
+  border-radius: 20px;
+  height: 40px;
+  width: 12%;
+  cursor: pointer;
+}

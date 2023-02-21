@@ -1,0 +1,10 @@
+body {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  margin: 10px;
+  color: white;
+  background-color: black;
+}

@@ -1,0 +1,31 @@
+.cardContainer {
+  border: 1px solid white;
+  padding: 7px;
+  border-radius: 10px;
+  width: 200px;
+  margin: 20px;
+}
+
+.cardBtn {
+  background-color: inherit;
+  border-radius: 20px;
+  color: white;
+  width: 100%;
+  outline: none;
+  border: 1px solid white;
+  padding: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+
+img {
+  border-radius: 10px 10px 0px 0px;
+}
+
+.cardText {
+  color: white;
+  margin: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
